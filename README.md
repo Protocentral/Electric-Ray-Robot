@@ -7,18 +7,18 @@ Electric Ray is a Ardino-Uno compatible, entry-level, low-cost complete robotic 
 
 Specifications
 ---------------
-Atmega328 microcontroller with Optiboot bootloader (Arduino-Uno compatible)
-Arduino shield expansion headers
-Ultrasonic distance sensor
-3x IR sensors
-OLED display
-Piezo buzzer
-FTDI USB-to-serial coverter
-TB6612FNG Motor Driver
-2x 3V geared motors
-2x wheels with rubber tyres
-1100 mAH, 3.7V Li-Poly battery pack
-Clear acrylic sheet to cover the PCB
+* Atmega328 microcontroller with Optiboot bootloader (Arduino-Uno compatible)
+* Arduino shield expansion headers
+* Ultrasonic distance sensor
+* 3x IR sensors
+* OLED display
+* Piezo buzzer
+* FTDI USB-to-serial coverter
+* TB6612FNG Motor Driver
+* 2x 3V geared motors
+* 2x wheels with rubber tyres
+* 1100 mAH, 3.7V Li-Poly battery pack
+* Clear acrylic sheet to cover the PCB
   
 
 Repository Contents
